@@ -20,6 +20,6 @@ for email in email_list:
     server.sendmail(email_from, email_to, email_content)
     server.quit()
 
-    print(f"sucess send to :  {email} ")
+    print(f"success send to :  {email} ")
 
 os.system('pause')
