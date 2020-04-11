@@ -13,6 +13,8 @@ in the terminal you should receive a success message,  in case it doesn't happen
 
 now  you should have sucess to send the email.
 
+example : i send a email from my test email (gabriel.vernilo) to my real email (bielvernilo). check result :
+
 ![email1](https://user-images.githubusercontent.com/53917092/79049722-aeed0c80-7bfb-11ea-870d-b429ef9e55a8.png)
 
 ![email2](https://user-images.githubusercontent.com/53917092/79049720-ae547600-7bfb-11ea-9c49-69f0d3f87014.jpeg)
